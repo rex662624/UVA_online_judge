@@ -10,3 +10,4 @@ reference: <br>
 - [11332](https://knightzone.studio/2012/09/17/1900/uva%EF%BC%9A11332%EF%BC%8Dsumming-digits/)
 - [10252](https://blog.csdn.net/hcbbt/article/details/9322079)
 - [10252_simple](https://knightzone.studio/2015/01/15/2679/uva%EF%BC%9A10252%EF%BC%8Dcommon-permutation/)
+-[490](https://johnson4932.pixnet.net/blog/post/21333521-q490%3A-rotating-sentences)
