@@ -12,3 +12,4 @@ reference: <br>
 - [10252_simple](https://knightzone.studio/2015/01/15/2679/uva%EF%BC%9A10252%EF%BC%8Dcommon-permutation/)
 -[490](https://johnson4932.pixnet.net/blog/post/21333521-q490%3A-rotating-sentences)
 -[10056](http://samchien.blogspot.com/2013/04/10056-what-is-probability.html)
+-[10268](https://pwnsol.blogspot.com/2018/06/derivate.html)
